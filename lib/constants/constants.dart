@@ -20,7 +20,7 @@ final hashtagsRef = firestore.collection('hashtags');
 final chatGroupsRef = firestore.collection('chat_groups');
 final newsletterEmailsRef = firestore.collection('newsletter_emails');
 final appName = 'glitcher';
-final rawgAPIkey = '36dc737518c546498e79fa986a4ff53d';
+final rawgAPIkey = 'test';
 String appTempDirectoryPath;
 const int kMaxImageSizedInMegaBytes = 3;
 const int kMaxVideoSizedInMegaBytes = 10;
